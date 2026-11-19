@@ -1,0 +1,47 @@
+{
+  "CBB": {
+    "name": "Cassava Bacterial Blight",
+    "cause": "A bacterial infection that spreads through infected planting material, rain splash, and contaminated tools.",
+    "symptoms": "Water-soaked, angular spots on leaves that turn brown and dry out. Leaves may wilt, and stems can show dieback or oozing gum.",
+    "spread": "Carried in cuttings from infected plants, splashed by rain, and moved on hands, knives, and clothing.",
+    "management": "Remove and destroy infected plants so the disease does not spread further. Clean tools between plants. Avoid harvesting cuttings from affected fields.",
+    "prevention": "Plant cuttings only from healthy, certified sources. Rotate with non-cassava crops where possible. Keep fields free of weeds that can host the bacteria.",
+    "see_extension_officer": "Ask an extension officer if many plants are affected, if the disease keeps returning in the same field, or before you move any cuttings to a new area."
+  },
+  "CBSD": {
+    "name": "Cassava Brown Streak Disease",
+    "cause": "Caused by cassava brown streak viruses, which damage the leaves, stems, and roots.",
+    "symptoms": "Pale yellow patches along the leaf veins, brown streaks on green stems, and brown rot inside the storage roots, which may only show when the root is cut.",
+    "spread": "Spread by whiteflies and through infected cuttings.",
+    "management": "Remove infected plants early, and harvest affected fields as soon as possible, since the roots rot quickly. Control whiteflies where it is safe and practical.",
+    "prevention": "Use virus-free cuttings from trusted sources. Plant resistant varieties recommended for your area. Check new plantings regularly.",
+    "see_extension_officer": "Get help if you see brown streaks on stems or brown rot in roots. An officer can confirm the diagnosis and advise on resistant varieties for your area."
+  },
+  "CGM": {
+    "name": "Cassava Green Mottle",
+    "cause": "Caused by cassava green mottle virus, which affects leaf colour and growth.",
+    "symptoms": "Light green or yellow mottling on the leaves, with patches that look uneven rather than streaked. Plants may grow more slowly.",
+    "spread": "Spread mainly through infected cuttings, and possibly by insects.",
+    "management": "Remove plants that show clear symptoms, and avoid taking cuttings from them. Keep the rest of the field under observation.",
+    "prevention": "Use clean cuttings from healthy plants. Plant resistant varieties where available, and check new plantings regularly.",
+    "see_extension_officer": "Ask an extension officer to confirm the disease, since leaf colour changes can look similar to other problems such as nutrient deficiency."
+  },
+  "CMD": {
+    "name": "Cassava Mosaic Disease",
+    "cause": "Caused by cassava mosaic viruses, which are among the most common and damaging cassava diseases in Africa.",
+    "symptoms": "Yellow and pale green mosaic patterns on the leaves, leaves that are twisted or smaller than normal, and stunted plants.",
+    "spread": "Spread by whiteflies and through infected cuttings.",
+    "management": "Remove infected plants, and do not use their cuttings for planting. Control whiteflies where it is practical.",
+    "prevention": "Plant resistant varieties recommended for your area, and use cuttings only from healthy plants. Check new fields early and often.",
+    "see_extension_officer": "Get help if many plants show mosaic patterns or stunting. An officer can recommend resistant varieties and planting practices for your area."
+  },
+  "Healthy": {
+    "name": "Healthy Cassava Leaf",
+    "cause": "No disease was detected in this leaf.",
+    "symptoms": "The leaf has an even green colour with no spots, streaks, or unusual patches.",
+    "spread": "Not applicable.",
+    "management": "Keep watching the field. Continue good practices.",
+    "prevention": "Use clean cuttings, keep fields weed-free, and check plants regularly, especially after rain or when insects are common.",
+    "see_extension_officer": "A healthy result from a single photo does not guarantee the whole field is healthy. Check other plants too, and ask an officer if you notice any change."
+  }
+}
